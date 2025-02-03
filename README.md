@@ -1,3 +1,8 @@
+-------------------------------------------------------------------------------------------
+2/2/25 - **This repo no longer works. The repo it was forked from is gone along with the user. If anyone has the files to make it work and wants to share.
+Drop a link in the comments**
+-------------------------------------------------------------------------------------------
+
 **Important:** Due to TinyURL’s use of Cloudflare, the playlist short links have been updated from TinyURL to Bit.ly. The old TinyURL links will continue to work once the protective mode is lifted, but it's recommended to switch to the new Bit.ly links.
 
 # DaddyLive Live TV & Sports Playlists
